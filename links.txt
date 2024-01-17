@@ -1,0 +1,16 @@
+
+
+f64f9281588f483259afeabed7fadc34
+
+fetch by id 
+https://api.themoviedb.org/3/movie/2331?api_key=f64f9281588f483259afeabed7fadc34&language=en-US
+
+https://api.themoviedb.org/3/movie/popular?api_key=f64f9281588f483259afeabed7fadc34 ---- popular
+
+https://api.themoviedb.org/3/movie/now_playing?api_key=f64f9281588f483259afeabed7fadc34
+
+https://api.themoviedb.org/3/movie/top_rated?api_key=f64f9281588f483259afeabed7fadc34
+
+https://api.themoviedb.org/3/movie/top_rated?api_key=f64f9281588f483259afeabed7fadc34
+
+https://api.themoviedb.org/3/search/movie?api_key=f64f9281588f483259afeabed7fadc34&query=avatar&include_adult=false&language=en-US&page=1
