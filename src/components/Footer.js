@@ -12,15 +12,15 @@ export const Footer = () => {
     <ul className="flex flex-wrap items-center mt-3 text-sm font-medium text-gray-500 dark:text-gray-400 sm:mt-0">
         <li>
             <i className="bi bi-instagram mr-1"></i>
-            <a href="https://www.instagram.com/harshithjk_06?igsh=MWl5cXF0enF3eGplNA%3D%3D&utm_source=qr" className="hover:underline me-4 md:me-6" target="_blank" rel="norefferer">Instagram</a>
+            <a href="https://www.instagram.com/harshithjk_06?igsh=MWl5cXF0enF3eGplNA%3D%3D&utm_source=qr" className="hover:underline me-4 md:me-6" target="_blank" rel='noreferrer'>Instagram</a>
         </li>
         <li>
             <i className="bi bi-linkedin mr-1"></i>
-            <a href="https://www.linkedin.com/in/harshith-j-k-954760191?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" className="hover:underline me-4 md:me-6" target="_blank" rel="norefferer">LinkedIn</a>
+            <a href="https://www.linkedin.com/in/harshith-j-k-954760191?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" className="hover:underline me-4 md:me-6" target="_blank" rel='noreferrer'>LinkedIn</a>
         </li>
         <li>
             <i className="bi bi-whatsapp mr-1"></i>
-            <a href="https://wa.link/4b0s19" className="hover:underline" target="_blank" rel="norefferer">Whatsapp</a>
+            <a href="https://wa.link/4b0s19" className="hover:underline" target="_blank" rel='noreferrer'>Whatsapp</a>
         </li>
     </ul>
     </div>

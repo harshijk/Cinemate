@@ -67,7 +67,7 @@ export const MovieDetail = () => {
 
         <p className="my-4">
           <span className="mr-2 font-bold">IMDB : </span>
-          <a href={`https://www.imdb.com/title/${movies.imdb_id}`} target='_blank' rel="norefferer"><span className="underline hover:no-underline">{movies.imdb_id}</span></a>
+          <a href={`https://www.imdb.com/title/${movies.imdb_id}`} target='_blank' rel='noreferrer'><span className="underline hover:no-underline">{movies.imdb_id}</span></a>
         </p>
 
   </div>
